@@ -1,6 +1,6 @@
 # 🌳 Decision Tree Classifier (Karar Ağacı Sınıflandırıcısı)
 
-Bu depo, bir makine öğrenimi algoritması olan **Karar Ağacı Sınıflandırıcısı (Decision Tree Classifier)**'nın uygulanmasını ve performansının değerlendirilmesini içerir.
+This repository contains the memory and performance evaluation of the **Decision Tree Classifier (Decision Tree Classifier)**, a machine learning development.
 
 ---
 
